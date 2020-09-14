@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer-playground",
+  "version": "1.0.0",
+  "description": "My personal playground field for Puppeteer. Also, code that I would like to use in the near future",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethsandaru/puppeteer-playground.git"
+  },
+  "author": "Phat Tran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sethsandaru/puppeteer-playground/issues"
+  },
+  "homepage": "https://github.com/sethsandaru/puppeteer-playground#readme"
+}
