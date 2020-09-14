@@ -4,7 +4,13 @@
   "description": "My personal playground field for Puppeteer. Also, code that I would like to use in the near future",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./src/index.js",
+
+    "basic-1": "node ./src/basic/index.js",
+    "basic-2": "node ./src/basic/get-element.js",
+
+    "vozf33": "node ./src/crawler-advanced/voz-f33.js"
+
   },
   "repository": {
     "type": "git",
